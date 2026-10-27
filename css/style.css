@@ -5,11 +5,14 @@
     padding: 0;
 }
 
-body{
+body{ 
     text-align: center; background-color: rgb(142, 192, 212);
 }
-.card-pefil{
-    width: 320px; border-radius: 20px; background-color: white;
+.card-perfil {
+    width: 1000px; 
+    border-radius: 20px; 
+    background-color: red;
+    height: 100px;
 }
 
 .avatar{
@@ -22,4 +25,7 @@ body{
 
 .bio{
 
+}
+.bagde-html{
+    
 }
