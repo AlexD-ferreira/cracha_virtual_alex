@@ -6,7 +6,7 @@
 }
 
 body{ 
-    text-align: center; background-color: rgb(176, 205, 216);
+    text-align: center; background-color: #F1F5F9;
 }
 .card-perfil {
     width: 320px; 
@@ -24,7 +24,7 @@ body{
 }
 
 .profissao{
-    color : gray;
+    color : #6F7498;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     
@@ -45,7 +45,7 @@ body{
 
 .bagde-css{
     background-color: #DBEAFE;
-    color: #2563eb;
+    color: #3875EE;
 }
 
 .bagde-git{
@@ -57,11 +57,12 @@ body{
 .bio{
     margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-weight: 500;
+    color: #56739D;
 }
 
 .destaque-senai{
-    color: #015AA3;
+    color: #005AA3;
     text-decoration: underline;
     font-weight: 700;
 }
@@ -71,7 +72,7 @@ body{
     padding: 5px;
     border-radius: 20px;
     background-color: #DCFCE7;
-    color: #17A34A;
+    color: #16A35D;
     margin-bottom: 15px;
     font-weight: 700;
     font-size: 20px;
