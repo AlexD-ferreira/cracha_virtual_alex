@@ -12,6 +12,7 @@ body{
     width: 320px; 
     border-radius: 20px; 
     background-color: white;
+    box-shadow: 0 4px 15px rgb(0,0,0,0.08);
 }
 
 .avatar{
@@ -30,25 +31,25 @@ body{
     
 }
 
-.bagde{
+.badge{
     display: inline-block;
-    padding: 5px;
+    padding: 4px 10px;
     border-radius: 20px; 
     margin-top: 20px;
 }
 
-.bagde-html{
+.badge-html{
     background-color: #FEE2E2;
     color: #dc2626;
     margin-right: 5px;
 }
 
-.bagde-css{
+.badge-css{
     background-color: #DBEAFE;
     color: #3875EE;
 }
 
-.bagde-git{
+.badge-git{
     background-color: #FFEDD5;
     color: #EA580C;
     margin-left: 5px;
@@ -67,7 +68,7 @@ body{
     font-weight: 700;
 }
 
-.bagde-status{
+.badge-status{
     display: inline-block;
     padding: 5px;
     border-radius: 20px;
